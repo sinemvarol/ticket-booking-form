@@ -1,0 +1,10 @@
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\bin\Debug\FormApplication.exe.config
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\bin\Debug\FormApplication.exe
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\bin\Debug\FormApplication.pdb
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.csprojAssemblyReference.cache
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.Form1.resources
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.Properties.Resources.resources
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.csproj.GenerateResource.cache
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.exe
+C:\Users\Sinem\source\repos\FormApplication\FormApplication\obj\Debug\FormApplication.pdb
